@@ -1,0 +1,1 @@
+Installer (recommended): ShoresOfHazeron-Setup-7b2.exe. Run it and follow the steps. No administrator rights are needed. It adds Start menu shortcuts (and optionally a desktop shortcut), and you can uninstall it from Windows Settings → Apps. To update, just run a newer installer.
